@@ -1,0 +1,4 @@
+Comment	Description	Designator	Footprint	Quantity
+
+"USB 3.0 Type A"	"USB 3.0 Type A Horizontal SMT Plug with Clip WR-COM"	"J1"	"692112030100"	"1"
+"HEADER-10"	""	"J2"	"PICOBLADE-10-SMD"	"1"
